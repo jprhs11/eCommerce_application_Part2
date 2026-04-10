@@ -46,7 +46,7 @@ X (Twitter) Developer Account (for social features)
 Installation
 Clone the repository:
 bash
-git clone https://github.com
+git clone https://github.com/jprhs11/eCommerce_application_Part2.git
 cd eCommerce_application_Part2
 
 
