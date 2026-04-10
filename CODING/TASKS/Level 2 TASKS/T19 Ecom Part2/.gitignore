@@ -1,0 +1,13 @@
+# --- Python Generated Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Databases ---
+*.sqlite3
