@@ -1,7 +1,0 @@
-[flake8]
-# Set the maximum allowed line length to PEP 8 standard
-max-line-length = 79
-# Common directories to skip
-exclude = venv, __pycache__, .git
-# Optional: count errors to see a summary
-statistics = True
